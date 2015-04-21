@@ -12,6 +12,9 @@ Yes it did. But I solved the conflict and kept the stuff
 of Carlos anyway...
 
 I did some weird stuff in the documentation. And then some more stuff.
+And now I just add this line for fun
+And another
+And yet another
 """
 from distutils.cmd import Command
 from distutils.core import setup
